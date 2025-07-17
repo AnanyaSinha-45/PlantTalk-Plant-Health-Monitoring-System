@@ -1,1 +1,2 @@
 # PlantTalk-Plant-Health-Monitoring-System
+PlantTalk is an Arduino-based system that interprets plant health using real-time sensor data (moisture, temperature, light) and translates it into human-like emotions (😊 Happy, 😓 Thirsty, 🥵 Stressed). Trained via Google Colab, the model's logic is implemented on Arduino Uno and visualized using an 8x8 LED matrix. Built for beginners, the system is fully simulated in TinkerCAD.
